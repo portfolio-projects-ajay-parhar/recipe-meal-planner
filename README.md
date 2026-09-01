@@ -474,11 +474,11 @@ npm run dev              # http://localhost:3000 (Turbopack)
 
 ## 13. Demo
 
-> 🔗 **Live demo:** _coming soon_ — will be hosted on Vercel.
+> 🔗 **Live demo:** [luxury-dodol-19dd5b.netlify.app](https://luxury-dodol-19dd5b.netlify.app/)
 >
 > Demo account: `demo@example.com` / seeded via `npm run db:seed`.
 
-Until then, run it locally with the instructions in [Deployment Architecture](#11-deployment-architecture) — you only need a free [Spoonacular API key](https://spoonacular.com/food-api).
+You can also run it locally with the instructions in [Deployment Architecture](#11-deployment-architecture) — you only need a free [Spoonacular API key](https://spoonacular.com/food-api).
 
 ## 14. What I Learned
 
