@@ -462,15 +462,13 @@ npm run dev              # http://localhost:3000 (Turbopack)
 
 ## 12. Screenshots
 
-> 📸 *Placeholders — drop images into `/public/screenshots` and they'll render here.*
-
 | Home / Search | Recipe Detail |
-|---|---|
-| ![Search](public/screenshots/search.png) | ![Detail](public/screenshots/detail.png) |
+|:---:|:---:|
+| ![Recipe search with live results, diet badges, and filters](public/screenshots/search.png) | ![Recipe detail with nutrition per serving](public/screenshots/detail.png) |
 
 | Weekly Meal Planner | Shopping List |
-|---|---|
-| ![Planner](public/screenshots/planner.png) | ![List](public/screenshots/shopping-list.png) |
+|:---:|:---:|
+| ![Weekly meal-planner calendar with recipes in day/meal slots](public/screenshots/planner.png) | ![Auto-generated shopping list grouped by supermarket aisle with checkable items](public/screenshots/shopping-list.png) |
 
 ---
 
